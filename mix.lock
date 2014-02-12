@@ -1,0 +1,6 @@
+[ "cowboy": {:git, "git://github.com/extend/cowboy.git", "903594bb8709db4fa98697ecf8adbdccabf64a83", []},
+  "cowlib": {:git, "git://github.com/extend/cowlib.git", "2e0fc55f71bfeb543fd2218abed85890ff1e3e82", [ref: "0.5.0"]},
+  "inflex": {:git, "git://github.com/nurugger07/inflex.git", "b1ab93e694fb2e6ba4721b5de26382c85e355068", []},
+  "phoenix": {:git, "git://github.com/chrismccord/phoenix.git", "be21b7c6539c13dde5942c37877cd003e8d74561", []},
+  "plug": {:git, "https://github.com/elixir-lang/plug.git", "ad6b35cdb42bfd38492e2387fc6aab5d2efa5c8c", [tag: "v0.2.0"]},
+  "ranch": {:git, "git://github.com/extend/ranch.git", "5df1f222f94e08abdcab7084f5e13027143cc222", [ref: "0.9.0"]} ]
